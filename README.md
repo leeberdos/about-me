@@ -1,3 +1,7 @@
 # about-me
 
-My skills are HTML, CSS, and Javascript
+
+My name is Lee. I am awesome.
+
+HTML, CSS, and Javascript
+
